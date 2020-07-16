@@ -1,0 +1,11 @@
+<div>
+  <h1>Listado de Recuperados</h1>
+  <hr />
+  <div class="card mt-3 p-3" *ngFor="let recovered of recovered">
+    <h2>
+    Nombre:
+      <a [routerLink]="['/recovered', recovered.id]">{{ recovered.name }}</a>
+    </h2>
+  </div>
+</div>
+
