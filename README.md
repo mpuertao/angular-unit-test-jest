@@ -1,6 +1,3 @@
-# angular-unit-test-jest
-Proyecto de Angular para ejemplificar las pruebas Unitarias con Jest
-
 # App-Recovered
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
